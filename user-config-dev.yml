@@ -9,7 +9,7 @@ spring:
       server:
         git:
           uri: https://github.com/KobeG/KobeG.git
-          search-paths: user　　//配置文件目录，多个用逗号隔开
+          search-paths: KobeG　　//配置文件目录，多个用逗号隔开
           username: KobeG
           password: qg19121994
           default-label: master
